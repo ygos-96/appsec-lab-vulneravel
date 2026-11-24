@@ -1,0 +1,12 @@
+{
+  "name": "lab-vulneravel",
+  "version": "1.0.0",
+  "description": "Laboratório de AppSec: API propositalmente vulnerável (5 falhas OWASP) e a versão corrigida, com exploits e teste automático.",
+  "scripts": {
+    "test": "node test.js",
+    "vulneravel": "node vulneravel/server.js",
+    "corrigido": "node corrigido/server.js"
+  },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}
