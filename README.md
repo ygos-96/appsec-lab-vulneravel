@@ -1,5 +1,7 @@
 # Laboratório de AppSec: vulnerável vs. corrigido
 
+[![ci](https://github.com/ygos-96/appsec-lab-vulneravel/actions/workflows/ci.yml/badge.svg)](https://github.com/ygos-96/appsec-lab-vulneravel/actions/workflows/ci.yml)
+
 API em Node.js **propositalmente vulnerável** com 5 falhas do OWASP Top 10, a versão corrigida, os exploits e um teste automático que prova o antes e o depois.
 
 ⚠ Uso educacional. Rode só em localhost.
