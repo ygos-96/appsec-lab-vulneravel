@@ -49,7 +49,6 @@ vulneravel/server.js   API com as 5 falhas (marcadas [FALHA n])
 corrigido/server.js    a mesma API corrigida
 exploits/atacar.js     os 5 ataques; imprime EXPLORADO ou BLOQUEADO
 test.js                roda tudo nas duas versões e confere
-ESTUDO.md              explicação de cada falha, glossário e perguntas de entrevista
 ```
 
 ## Como estudar com ele
